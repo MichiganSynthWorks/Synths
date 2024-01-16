@@ -1,6 +1,6 @@
 1/15/24
 
-Added Tempalte file: 1mm PCB! ENIG PLATING
+Added Voice Card Template file: 1mm PCB! ENIG PLATING
 
 Xena: Synth based on the Mutable Instruments Ambika originally designed by Emilie Gillet
 
