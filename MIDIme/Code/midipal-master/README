@@ -1,0 +1,24 @@
+Midipal, the MIDI swiss army knife.
+
+A midi in, a midi out, a small display, an encoder ; 20 awesome features:
+
+* MIDI monitor
+* BPM counter
+* Keyboard splitter
+* Note dispatcher / voice stealing / polyphonic driver
+* Channels merger
+* Channel filter
+* Clock divider
+* Clock source, with swing
+* CC and NRPN knob
+* 8 pots/sensors voltage reader/controller
+* Drum pattern generator (including Euclidian patterns)
+* Note, velocity and CC randomizer
+* Chord memory
+* Arpeggiator
+* Sequencer
+* CC lfo
+* Tempo-synchronized note delay (with transposition and decay velocity)
+* Slave start/stop synchronizer (à la Mungo Sync)
+* Scale processor / harmonizer
+* Ear training game
