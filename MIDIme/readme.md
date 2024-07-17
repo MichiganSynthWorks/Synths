@@ -1,3 +1,7 @@
+7/17/24
+
+Updated boards, case, and code
+
 5/1/24
 
 Initial Release
